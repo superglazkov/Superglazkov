@@ -1,16 +1,15 @@
-## Hi there 👋
+## WiZ Control
 
-<!--
-**superglazkov/Superglazkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I originally started looking for a Windows application to control my WiZ smart lights.
 
-Here are some ideas to get you started:
+The only open-source desktop project I found was useful as a starting point, but it was primarily designed around controlling a single light. I needed something that could comfortably manage multiple bulbs and light strips around my home.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So I started extending it.
+
+The result became [WiZ Control](https://github.com/superglazkov/WiZ-Control), an open-source Windows desktop app with multi-device control, All devices mode, scenes, LAN discovery, device ordering, tray support, themes, and MAC-based IP recovery.
+
+What started as a small fix for my own lights gradually turned into a project I decided to publish for anyone looking for a practical local WiZ controller on Windows.
+
+### WiZ Control
+
+[View the project](https://github.com/superglazkov/WiZ-Control) · [Download the latest release](https://github.com/superglazkov/WiZ-Control/releases/latest)
